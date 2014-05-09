@@ -1,0 +1,16 @@
+{
+  "name": "Jekyll 2 Starter",
+  "description": "Jekyll is a simple, blog-aware, static site generator perfect for personal, project, or organization sites. Think of it like a file-based CMS, without all the complexity. Jekyll takes your content, renders Markdown and Liquid templates, and spits out a complete, static website ready to be served.",
+  "keywords": [
+    "static",
+    "ruby",
+    "blog"
+  ],
+  "website": "http://jekyllrb.com/",
+  "logo": "http://jekyllrb.com/img/logo-2x.png",
+  "repository": "https://github.com/jekyll/jekyll",
+  "addons": [],
+  "env": {
+    "BUILDPACK_URL": "https://github.com/zeke/harp-buildpack"
+  }
+}
