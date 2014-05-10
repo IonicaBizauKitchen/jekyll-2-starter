@@ -11,6 +11,6 @@
   "repository": "https://github.com/jekyll/jekyll",
   "addons": [],
   "env": {
-    "BUILDPACK_URL": "https://github.com/zeke/harp-buildpack"
+    "BUILDPACK_URL": "https://github.com/mattmanning/heroku-buildpack-ruby-jekyll"
   }
 }
