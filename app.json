@@ -8,7 +8,7 @@
   ],
   "website": "http://jekyllrb.com/",
   "logo": "http://www.proxygear.com/images/posts/jekyll.png",
-  "repository": "https://github.com/jekyll/jekyll",
+  "repository": "https://github.com/zeke/jekyll-2-starter",
   "addons": [],
   "env": {
     "BUILDPACK_URL": "https://github.com/mattmanning/heroku-buildpack-ruby-jekyll"
